@@ -79,3 +79,7 @@
   margin-top: 20px;
   margin-bottom: 50px;
 }
+.breakTime>select{  
+  border: 0px;
+  outline: 0px;
+}
