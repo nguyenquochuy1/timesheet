@@ -83,3 +83,8 @@
   border: 0px;
   outline: 0px;
 }
+.txtHour{
+  width: 100px;
+  height: 40px;
+  text-align: center;
+}
